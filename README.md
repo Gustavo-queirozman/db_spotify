@@ -1,4 +1,4 @@
-<h1>Db Shopify</h1>
+<h1>Db Spotify</h1>
 Banco de dados clone do spotify construido em Mysql
 
 <h2>Glossário de Termos de Negócio</h2>
