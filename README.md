@@ -1,5 +1,5 @@
 <h1>Db Shopify</h1>
-Banco de dados clone do shopify construido em Mysql
+Banco de dados clone do spotify construido em Mysql
 
 <h2>Glossário de Termos de Negócio</h2>
 Canção: Música <br>
